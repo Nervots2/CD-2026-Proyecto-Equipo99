@@ -18,3 +18,12 @@ Pregunta 1
 
 Pregunta 2
 ¿Existen indicadores transaccionales o de soporte técnico que permitan predecir de manera temprana el riesgo de abandono de un cliente antes de que solicite la baja?
+
+| Fase | ¿Cómo se aplicaría en su proyecto? |
+| :--- | :--- |
+| **Business Understanding** | Definición del problema del incremento del $18\%$ en el *Churn* de la plataforma NexoPlay, estableciendo como objetivo comercial reducir la pérdida de ingresos recurrentes y optimizar el presupuesto de marketing mediante un modelo predictivo que identifique a los usuarios en riesgo de abandono. |
+| **Data Understanding** | Recopilación y exploración inicial de las fuentes de datos disponibles en NexoPlay, tales como registros de actividad de juego, historial de transacciones, métodos de pago, historial de soporte técnico y métricas de uso de la plataforma para entender su estructura y calidad. |
+| **Data Preparation** | Limpieza y transformación de los datos, incluyendo el tratamiento de valores nulos, la creación de variables derivadas (como la frecuencia de inicio de sesión o caídas abruptas de actividad), y la partición del conjunto de datos en entrenamiento y prueba. |
+| **Modeling** | Selección, entrenamiento y ajuste de hiperparámetros de algoritmos de clasificación de *Machine Learning* (como Regresión Logística, Árboles de Decisión o XGBoost) para estimar la probabilidad de cancelación de suscripción de cada usuario. |
+| **Evaluation** | Evaluación del desempeño técnico de los modelos utilizando métricas de rendimiento (como AUC-ROC, *Precision*, *Recall* y *F1-Score*) para verificar si los resultados cumplen con los criterios de éxito del negocio antes de pasar a producción. |
+| **Deployment** | Integración del modelo predictivo en los sistemas operativos de NexoPlay para que la Directora de Retención y el equipo de Marketing puedan automatizar el envío de campañas, incentivos y correos de re-enganche dirigidos específicamente a los usuarios en riesgo. |
