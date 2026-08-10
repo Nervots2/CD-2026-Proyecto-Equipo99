@@ -12,3 +12,9 @@ La Directora de Retención y Fidelización (apoyada por el equipo de Marketing),
 
 ¿Qué impacto tendría resolverlo?
 Desarrollar un modelo predictivo permitirá identificar proactivamente qué usuarios están en riesgo de abandonar la plataforma. Esto optimizará el presupuesto de marketing al dirigir ofertas de retención solo a quienes realmente lo necesitan, estabilizando los ingresos y aumentando el valor del ciclo de vida del cliente (LTV).
+
+Pregunta 1
+¿Qué patrones de comportamiento de juego y nivel de actividad en la plataforma influyen significativamente en la probabilidad de que un usuario cancele su suscripción en el próximo trimestre?
+
+Pregunta 2
+¿Existen indicadores transaccionales o de soporte técnico que permitan predecir de manera temprana el riesgo de abandono de un cliente antes de que solicite la baja?
