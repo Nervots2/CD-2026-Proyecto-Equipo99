@@ -1,0 +1,12 @@
+# Aplicación Streamlit (app/)
+streamlit>=1.30
+plotly>=5.22
+pandas>=2.0
+numpy>=1.24
+
+# Notebook de análisis exploratorio (notebooks/)
+matplotlib>=3.7
+seaborn>=0.13
+scipy>=1.10
+scikit-learn>=1.4
+ipykernel
