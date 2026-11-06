@@ -13,3 +13,6 @@ ipykernel
 
 # Modelado (notebooks/modelo.ipynb)
 lightgbm>=4.0
+
+# Explicabilidad (notebooks/03_explicabilidad.ipynb)
+shap>=0.46
