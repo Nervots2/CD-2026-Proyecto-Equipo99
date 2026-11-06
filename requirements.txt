@@ -10,3 +10,6 @@ seaborn>=0.13
 scipy>=1.10
 scikit-learn>=1.4
 ipykernel
+
+# Modelado (notebooks/modelo.ipynb)
+lightgbm>=4.0
